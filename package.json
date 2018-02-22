@@ -1,0 +1,20 @@
+{
+  "name": "file_ru_renamer-exporter",
+  "version": "1.0.0",
+  "description": "Renaming files in directory and mathing them in the table.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.17.0"
+  },
+  "dependencies": {
+    "dom-parser": "^0.1.5",
+    "fast-csv": "^2.4.1",
+    "glob": "^7.1.2",
+    "translit": "0.0.1"
+  }
+}
